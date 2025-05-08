@@ -96,7 +96,6 @@ const VehicleList: React.FC = () => {
   }
 
   return (
-    // <div className="w-full bg-black max-w-screen-xl mx-auto min-h-screen p-6 space-y-6 bg-gradient-to-b from-background to-muted/10 overflow-x-hidden">
     <div className="fixed inset-0 overflow-y-auto bg-black p-6 space-y-6 bg-gradient-to-b from-background to-muted/10 overflow-x-hidden">
 
 
